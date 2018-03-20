@@ -1163,7 +1163,6 @@
 	}
 
 	p {
-		text-align: justify;
 		margin-bottom: 2em;
 	}
 
@@ -2019,7 +2018,6 @@
 		/* Copyright */
 
 			#copyright {
-				margin-top: 6em;
 				padding-top: 4em;
 			}
 
@@ -2155,6 +2153,7 @@
 				section > :first-child, section:first-child, article > :first-child, article:first-child {
 					margin-top: 0 !important;
 				}
+
 
 		/* Image */
 
